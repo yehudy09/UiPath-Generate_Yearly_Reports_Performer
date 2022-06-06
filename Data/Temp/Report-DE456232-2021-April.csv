@@ -1,0 +1,2 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+772321,"Professional Services",2017-04-09,225000,45000,270000,USD

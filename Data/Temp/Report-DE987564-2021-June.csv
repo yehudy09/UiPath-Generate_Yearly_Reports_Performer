@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+149434,"Various paper supplies",134464,26892.8,161357,RON,2017-06-16
+293236,"Waste management services",292891,58578.2,351469,CAD,2017-06-20
+209221,"Professional Services",204481,40896.2,245377,EUR,2017-06-03
+399875,"IT Support",163561,32712.2,196273,EUR,2017-06-04
